@@ -1,0 +1,15 @@
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\bin\Debug\net7.0\Day16.exe
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\bin\Debug\net7.0\Day16.deps.json
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\bin\Debug\net7.0\Day16.runtimeconfig.json
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\bin\Debug\net7.0\Day16.dll
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\bin\Debug\net7.0\Day16.pdb
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\Day16.csproj.AssemblyReference.cache
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\Day16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\Day16.AssemblyInfoInputs.cache
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\Day16.AssemblyInfo.cs
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\Day16.csproj.CoreCompileInputs.cache
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\Day16.dll
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\refint\Day16.dll
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\Day16.pdb
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\Day16.genruntimeconfig.cache
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day16\obj\Debug\net7.0\ref\Day16.dll
