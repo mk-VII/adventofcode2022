@@ -1,0 +1,15 @@
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\bin\Debug\net7.0\Day10.exe
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\bin\Debug\net7.0\Day10.deps.json
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\bin\Debug\net7.0\Day10.runtimeconfig.json
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\bin\Debug\net7.0\Day10.dll
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\bin\Debug\net7.0\Day10.pdb
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\Day10.csproj.AssemblyReference.cache
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\Day10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\Day10.AssemblyInfoInputs.cache
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\Day10.AssemblyInfo.cs
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\Day10.csproj.CoreCompileInputs.cache
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\Day10.dll
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\refint\Day10.dll
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\Day10.pdb
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\Day10.genruntimeconfig.cache
+C:\Users\Mark.Scholefield\Repos\Advent of Code\Day10\obj\Debug\net7.0\ref\Day10.dll
